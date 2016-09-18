@@ -1,0 +1,3 @@
+# the ignored files can be specified by using glob patterns.
+# see github.com/github/gitignore for more examples
+*~
